@@ -1,0 +1,46 @@
+p{ margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 10px;
+margin-left: 10px;
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+}
+
+h2{margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+img{margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+footer{margin-top: 25px;
+margin-bottom: 25px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+h2.headerColor{
+    color:red;
+}
+
+p.text{
+    color: blue;
+    size: 18px;
+}
+
+#masteryLogo{
+    background: url('images/Mastery7BadgeW.jpg');
+  background-repeat: repeat-x;
+  background-size: 100px 50px;
+  width: 100%;
+  padding:50px;
+  text-align: center;
+}
+
